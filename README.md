@@ -1,2 +1,1 @@
 # Simple-Interest-Calculator
-####BHARGAV
